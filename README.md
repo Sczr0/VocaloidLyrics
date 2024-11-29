@@ -1,14 +1,5 @@
 # VocaloidLyrics
 
-这里是vocaloid歌词库。
-
-收录标准请参考周刊
-
-
-# 歌词库项目
-
----
-
 ## 项目简介
 
 欢迎来到vocaloid歌词库。
